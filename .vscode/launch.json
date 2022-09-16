@@ -1,0 +1,14 @@
+{
+    "configurations": [
+    {
+        "name": "Debug App",
+        "program": "${workspaceFolder}/src/app.js",
+        "request": "launch",
+        "skipFiles": [
+            "<node_internals>/**"
+        ],
+        "type": "node",
+        "args": []
+    }
+    ]
+}
